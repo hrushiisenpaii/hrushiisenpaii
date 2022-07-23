@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on projects to work on related cpp or web-dev.
 
 - 📫 How to reach me: 
-     ~Gmail: hrushikesh.patra24@gmail.com
-     ~linkedin: https://www.linkedin.com/in/hrushikeshpatra24/
-     ~Codechef: https://www.codechef.com/users/averageruntime
+     ~Gmail: hrushikesh.patra24@gmail.com<br />
+     ~linkedin: https://www.linkedin.com/in/hrushikeshpatra24/<br />
+     ~Codechef: https://www.codechef.com/users/averageruntime<br />
 
