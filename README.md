@@ -10,11 +10,10 @@
 ### Projects
 
 1) Weather-Forecast : https://hrushiisenpaii.github.io/WeatherForecast/<br>
-  &ensp; Github : https://github.com/hrushiisenpaii/WeatherForecast<br>
-  <br>
+&ensp; Github : https://github.com/hrushiisenpaii/WeatherForecast<br>
 2) Snake-game : https://hrushiisenpaii.github.io/Snake-classic/index.html<br>
-  &ensp; Github : https://github.com/hrushiisenpaii/Snake-classic<br>
-  <br>
+&ensp; Github : https://github.com/hrushiisenpaii/Snake-classic<br>
+  
 
 
   
