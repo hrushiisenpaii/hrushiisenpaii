@@ -8,6 +8,8 @@
      ~linkedin: https://www.linkedin.com/in/hrushikeshpatra24/<br>
      ~Codechef: https://www.codechef.com/users/averageruntime<br>
      
+- Resume : https://drive.google.com/file/d/1StxW9v6DSWuJOWm5z_ABjrIs8JqU5b3f/view?usp=sharing
+     
      
 ### Projects
 
