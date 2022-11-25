@@ -13,11 +13,12 @@
      
 ### Projects
 
-1) Weather-Forecast : https://hrushiisenpaii.github.io/WeatherForecast/<br>
+1) Sound-store : https://sound-xi.vercel.app/ <br>
+2) Weather-Forecast : https://hrushiisenpaii.github.io/WeatherForecast/<br>
 &ensp; Github : https://github.com/hrushiisenpaii/WeatherForecast<br>
-2) Snake-game : https://hrushiisenpaii.github.io/Snake-classic/index.html<br>
+3) Snake-game : https://hrushiisenpaii.github.io/Snake-classic/index.html<br>
 &ensp; Github : https://github.com/hrushiisenpaii/Snake-classic<br>
-3) SortingVisualiser : https://github.com/hrushiisenpaii/SortingVisualiser
+
   
 
 
