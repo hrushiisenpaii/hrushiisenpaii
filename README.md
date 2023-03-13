@@ -13,12 +13,16 @@
      
 ### Projects...
 
-1) StackOverflow [theredfrog.netlify.app/](https://theredfrog.netlify.app/) {Backend yet to be deployed} <br>
-2) Sound-store : https://sound-xi.vercel.app/ <br>
-&ensp; Github : https://github.com/hrushiisenpaii/sound <br>
-3) Weather-Forecast : https://hrushiisenpaii.github.io/WeatherForecast/ <br>
-&ensp; Github : https://github.com/hrushiisenpaii/WeatherForecast <br>
-4) Quokker: https://quokker.vercel.app/<br>
-&ensp; Github : https://github.com/hrushiisenpaii/quokker <br>
-5) Snake-game : https://hrushiisenpaii.github.io/Snake-classic/index.html <br>
-&ensp; Github : https://github.com/hrushiisenpaii/Snake-classic <br>
+1) StackOverflow : MERN [stackoverflowRED](https://theredfrog.netlify.app/) {Backend on Render} <br>
+&ensp; [Code](https://github.com/hrushiisenpaii/StackOverflow) <br>
+2) Sound-store : Node, React, Sanity, Stripe [SoundStore](https://sound-xi.vercel.app/) <br>
+&ensp; [Code](https://github.com/hrushiisenpaii/sound) <br>
+3) User-form : MERN [UserFormHP](https://userformhp.netlify.app/)
+&ensp; [Code](https://github.com/hrushiisenpaii/User-Form) <br>
+4) Weather-Forecast : JS, HTML, API [Weatherforecast](https://hrushiisenpaii.github.io/WeatherForecast/) <br>
+&ensp; [Code](https://github.com/hrushiisenpaii/WeatherForecast) <br>
+5) Quokker: JS, HTML, API [Quokker](https://quokker.vercel.app/) <br>
+&ensp; [Code](https://github.com/hrushiisenpaii/quokker) <br>
+6) Snake-game : JS, HTML [SnakeClassic](https://hrushiisenpaii.github.io/Snake-classic/index.html) <br>
+&ensp; [Code](https://github.com/hrushiisenpaii/Snake-classic) <br>
+7) Sudoku-solve&validate : C++ [Cpp Code](https://github.com/hrushiisenpaii/GameSUDOKU) <br>
