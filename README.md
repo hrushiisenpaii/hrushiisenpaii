@@ -1,7 +1,7 @@
 ### Hi there 👋 Hrushikesh Patra here...
 
 - 🌱 I’m currently learning Cpp, Data Structure and Alogorithm, Web-dev and Competitive programming. 
-- Full Stack Developer - MERN Stack
+- 👨‍💻 Full Stack Developer - MERN Stack
 - 👯 I’m looking to collaborate on projects to work on related cpp or web-dev.
 
 - 📫 How to reach me: <br />
